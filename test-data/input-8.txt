@@ -1,0 +1,4 @@
+# az első tárhely sikerrel tüzel de a 2. tüzelésnél a 2. tár már üres
+GT4500,5,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
