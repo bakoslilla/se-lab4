@@ -1,0 +1,4 @@
+# a következő tár hibát ad az első lövés után
+GT4500,5,0,5,1.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
